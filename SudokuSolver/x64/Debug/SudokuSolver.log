@@ -1,0 +1,4 @@
+﻿D:\Users\Ronald Gao\Documents\GitHub\SudokuSolver\SudokuSolver\SudokuSolver.vcxproj(63,5): warning MSB4011: "C:\Users\Ronald Gao\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.x64.user.props" cannot be imported again. It was already imported at "D:\Users\Ronald Gao\Documents\GitHub\SudokuSolver\SudokuSolver\SudokuSolver.vcxproj (57,5)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  SudokuSolver.cpp
+  SudokuSolver.vcxproj -> D:\Users\Ronald Gao\Documents\GitHub\SudokuSolver\SudokuSolver\x64\Debug\SudokuSolver.exe
+  SudokuSolver.vcxproj -> D:\Users\Ronald Gao\Documents\GitHub\SudokuSolver\SudokuSolver\x64\Debug\SudokuSolver.pdb (Full PDB)
